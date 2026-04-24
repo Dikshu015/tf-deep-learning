@@ -1,6 +1,6 @@
 # TensorFlow Deep Learning Notebooks
 
-A structured, end-to-end collection of hands-on notebooks covering core and advanced concepts in deep learning using TensorFlow. This repository reflects practical implementation, experimentation, and iterative learning across multiple domains including regression, classification, computer vision, transfer learning, and natural language processing.
+A structured, end-to-end collection of hands-on notebooks covering core and advanced concepts in deep learning using TensorFlow. This repository reflects practical implementation, experimentation, and iterative learning across multiple domains including regression, classification, computer vision, transfer learning, and natural language processing. (for more details on notebooks you can check them i have written many things there about what we're doing in this notebook and so much more stuff to learn and revise.)
 
 ---
 
